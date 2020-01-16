@@ -5,7 +5,7 @@ Imports System.IO
 
 ''' <summary>
 ''' RuntimeUndetect.vb
-''' Original idea and POC by Andr4x from OffensiveEncode org
+''' Original idea and POC by Dr4xey from OffensiveEncode org
 ''' </summary>
 ''' <remarks>Uses a lot (~10-20% cpu and ~0.6MB/s disk usage)</remarks>
 Public Class RuntimeUndetect

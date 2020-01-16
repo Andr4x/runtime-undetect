@@ -1,5 +1,5 @@
 # runtime-undetect
-Runtime-Undetect POC By Andr4x
+Runtime-Undetect Method By Dr4xey
 
 Runtime undetection method POC
 
